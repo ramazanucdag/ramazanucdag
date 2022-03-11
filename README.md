@@ -1,6 +1,6 @@
 # - 👋 Hi, I’m @ramazanucdag
 
-## 💻Ramazan Üçdağ - Software Developer
+## 💻Ramazan Üçdağ - Java Software Developer
 🤝Sosyal Medya Hesaplarım
 
 https://tr.linkedin.com/in/ramazanucdag
