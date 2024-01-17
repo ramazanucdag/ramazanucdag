@@ -16,4 +16,5 @@ https://www.instagram.com/ramazanucdag
 
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ramazanucdag) -->
 
-![Profile views](https://gpvc.arturio.dev/ramazanucdag)  
+[![](https://visitcount.itsvg.in/api?id=ramazanucdag&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
